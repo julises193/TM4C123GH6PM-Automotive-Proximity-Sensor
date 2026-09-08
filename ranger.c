@@ -1,5 +1,5 @@
 /*
- * ranger.c: Completed code for ECE 266 Lab 8
+ * ranger.c
  */
 
 #include "ranger.h"
