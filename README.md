@@ -11,9 +11,9 @@ Built With:
 * Piezoelectric Buzzer
 
 Technical Stack:
-Language: C
-Execution With: Event-Driven Background Scheduler (WFI)
-Protocols/Interfaces: Custom Bit-Banged Protocol (I2C-like), PWM, Interrupts (Time Capture)
+* Language: C
+* Execution With: Event-Driven Background Scheduler (WFI)
+* Protocols/Interfaces: Custom Bit-Banged Protocol (I2C-like), PWM, Interrupts (Time Capture)
 
 
 Notices:
