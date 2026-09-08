@@ -1,5 +1,5 @@
 /*
- * range.h: Starter code for ECE 266 Lab 8, spring 2026
+ * range.h
  *
  * Lab 8: Distance Measurement
  *
