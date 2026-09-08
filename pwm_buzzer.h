@@ -1,5 +1,4 @@
 /*
- * Starter code for ECE 266 Lab 7, Sound Player (PWM), spring 2026
  *
  * pwmled.c: PWM BUZZER functions
  *
